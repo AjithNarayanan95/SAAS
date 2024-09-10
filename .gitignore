@@ -1,3 +1,5 @@
 .DS_Store
 .DS_Store
 src/.DS_Store
+src/db.sqlite3
+src/visits/__pycache__/models.cpython-312.pyc
